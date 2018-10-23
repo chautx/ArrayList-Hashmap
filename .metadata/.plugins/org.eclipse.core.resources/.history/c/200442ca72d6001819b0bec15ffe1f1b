@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+
+public class ArraylistDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList arrayNumbers = new ArrayList();
+		arrayNumbers.add(8);
+		arrayNumbers.add(3);
+		arrayNumbers.add("name");
+		arrayNumbers.add(5.4f);
+//		them chi so+ vi tri bang arrayNumbers.add
+		arrayNumbers.add(0,"ten cua hoc sinh");
+		// update
+		arrayNumbers.set(2, "ten truong hoc");
+		//print, ham size tra ve kich co cua mang
+		for(int i = 0; i < arrayNumbers.size(); i++) {
+			System.out.println(arrayNumbers.get(i));
+			
+		 }
+			      
+		}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source folder &apos;TestOOPDemo/OPPArray&apos; to &apos;OjectAndArray&apos;&#x0D;&#x0A;- Original project: &apos;TestOOPDemo&apos;&#x0D;&#x0A;- Original element: &apos;TestOOPDemo/OPPArray&apos;&#x0D;&#x0A;- Renamed element: &apos;OPPArray&apos;" description="Rename source folder &apos;OPPArray&apos;" id="org.eclipse.jdt.ui.rename.source.folder" input="/OPPArray" name="OjectAndArray" stamp="1540230401657" version="1.0"/>
+</session>

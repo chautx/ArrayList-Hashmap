@@ -1,0 +1,22 @@
+
+public class Student {	
+		public int id;
+		public String name;
+		public int age;
+		
+		public Student(int i, String string, int j) {
+			// TODO Auto-generated constructor stub
+		}
+
+		public void Student(int paramId, String paramName, int paramAge) {
+			this.id = paramId;
+			this.name = paramName;
+			this.age = paramAge;
+			}
+		}
+		
+		
+
+	
+
+

@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class ExceptonDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input = new Scanner(System.in);
+		System.out.println(" Nhap so a:");
+		int num1 = input.nextInt();
+		System.out.println(" Nhap so b: ");
+		int num2 = input.nextInt();
+		System.out.println(num1/num2);
+		
+		
+		
+
+	}
+
+}

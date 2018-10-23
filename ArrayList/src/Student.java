@@ -1,0 +1,14 @@
+
+public class Student {
+	public int id;
+	public String name;
+	//khoi tao Student
+	public Student(int _id , String _name) {
+		this.id = _id;
+		this.name = _name;
+	}
+	public String toString() {
+	return "ID: " + this.id + " ,name: " + this.name;
+	
+	}
+}
